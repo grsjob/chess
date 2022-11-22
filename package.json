@@ -71,5 +71,10 @@
     "webpack-dev-server": "^4.11.1",
     "webpack-merge": "^5.8.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.0",
+    "@types/react-redux": "^7.1.24",
+    "classnames": "^2.3.2",
+    "react-redux": "^8.0.5"
+  }
 }
